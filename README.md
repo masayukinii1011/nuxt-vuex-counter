@@ -1,6 +1,6 @@
 # nuxt-vuex-counter
 
-> My great Nuxt.js project
+nuxtでvuexを扱う練習に作成したカウンターアプリ
 
 ## Build Setup
 
